@@ -3,10 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Image-7C3AED?style=flat-square" alt="AI Image" />
-  <img src="https://img.shields.io/badge/AI-Video-DB2777?style=flat-square" alt="AI Video" />
-  <img src="https://img.shields.io/badge/Character-Design-0891B2?style=flat-square" alt="Character Design" />
-  <img src="https://img.shields.io/badge/Agent-Skills-2563EB?style=flat-square" alt="Agent Skills" />
+  <a href="https://x.com/ChengSir404">
+    <img src="https://img.shields.io/badge/X-@ChengSir404-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X @ChengSir404" />
+  </a>
 </p>
 
 ## 👋 你好，我是 ChengSir
