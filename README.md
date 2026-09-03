@@ -1,34 +1,31 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="ChengSir profile banner" />
+  <img src="./assets/profile-header.png" width="100%" alt="AI image, video and creative workflow banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems-Operations-0F172A?style=flat-square" alt="Systems Operations" />
-  <img src="https://img.shields.io/badge/Infrastructure-Automation-0369A1?style=flat-square" alt="Infrastructure Automation" />
-  <img src="https://img.shields.io/badge/AI-Tools-7C3AED?style=flat-square" alt="AI Tools" />
+  <img src="https://img.shields.io/badge/AI-Image-7C3AED?style=flat-square" alt="AI Image" />
+  <img src="https://img.shields.io/badge/AI-Video-DB2777?style=flat-square" alt="AI Video" />
+  <img src="https://img.shields.io/badge/Character-Design-0891B2?style=flat-square" alt="Character Design" />
+  <img src="https://img.shields.io/badge/Agent-Skills-2563EB?style=flat-square" alt="Agent Skills" />
 </p>
 
 ## 你好，我是 ChengSir
 
-系统运维工程师，也在做自动化和 AI 工具。
+平时喜欢折腾 AI，尤其关注 AI 生图、角色设计、AI 视频和 Agent 工作流。
 
-我有 6 年企业级系统运维经验，日常工作覆盖 Linux、虚拟化、中间件、数据库、监控告警与故障处理。比起反复执行同一套操作，我更愿意把流程写成脚本、固化成工具，让系统更稳定，也让下一次处理更快。
+我喜欢把一个模糊的想法慢慢拆清楚，再整理成可以重复使用的提示词、Skill 和小工具。比起追求一次出图，我更在意人物是否稳定、画面有没有故事，以及整个创作流程能不能持续复用。
 
 ## 我关注的方向
 
-- 用 Shell 和 Ansible 减少重复操作，规范部署、巡检、日志归档与备份流程。
-- 用 Prometheus、Alertmanager 和 Grafana 建立可观测性，尽早发现问题。
-- 持续学习 Kubernetes 与云原生技术，补齐容器编排和基础设施工程能力。
-- 探索 AI Agent、Codex Skills 与内容创作自动化，把提示词和工作流做成可复用工具。
+- 怎样把一句简单的人设，扩展成有辨识度的角色和完整画面。
+- 怎样让同一个角色出现在不同服装、场景和镜头里，依然保持一致。
+- 怎样把图片、分镜、动作和运镜连起来，做出更自然的 AI 视频。
+- 怎样把零散的提示词整理成 Agent 能直接调用的 Skill 和工作流。
 
-## 技术栈
+## 这里会记录什么
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,ansible,docker,kubernetes,nginx,prometheus,grafana,redis,python,go,git,githubactions,gitlab,jenkins,vim&perline=8" alt="Technology stack" />
-  </a>
-</p>
+提示词实验、角色设定方法、AI 视频分镜、Codex Skills，以及一些顺手做的小工具。
 
 <p align="center">
-  <sub>Systems should be observable. Operations should be repeatable.</sub>
+  <sub>把灵感变成画面，再把偶然变成可以复用的方法。</sub>
 </p>
